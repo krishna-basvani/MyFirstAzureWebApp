@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJhNoLaARzzzGdHclUOL75QzbOM6InzzJkTbe6Wg1oHBPlEAyfQJRp0ch7g0VJm8OsbwId3xE+lb9I1fIwy2XA==",
+  "success": true,
+  "projectFilePath": "C:\\learning\\Azure\\Certifications\\az-204\\labs\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhagavanBasvani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
